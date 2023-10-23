@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Oswald&display=swap');
+
 html {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
+    background: whitesmoke;
     min-height: 100vh;
+    font-family: 'Oswald', sans-serif;
 }
